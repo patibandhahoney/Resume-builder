@@ -34,6 +34,6 @@ The application collects user details and automatically generates a **PDF resume
 
 ## 📂 Project Snapshot
 
-
+<img width="1888" height="986" alt="Image" src="https://github.com/user-attachments/assets/b0788ac7-6368-4ce8-9acf-c70d2ce98b9f" />
 
 
